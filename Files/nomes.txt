@@ -1,0 +1,4 @@
+Nome,idade,sexo
+Rafael, 3, M
+Gabriela, 20, F
+Marcela, 13, F
